@@ -1,0 +1,27 @@
+h1{
+  background-color: blue;
+  color: lavender;
+}
+h2{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+h3{
+  background-color: purple;
+  text-align: center;
+  color: white;
+  box-shadow: 6px;
+  border-bottom: 3px solid blue;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: 400px;
+}
+.info{
+  border: 5px solid red;
+}

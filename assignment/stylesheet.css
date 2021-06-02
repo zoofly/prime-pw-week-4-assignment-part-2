@@ -1,16 +1,16 @@
-h1{
+header{
   background-color: blue;
   color: lavender;
 }
 h2{
   background-color: black;
-  color: white;
+  color: firebrick;
   text-align: center;
 }
 h3{
   background-color: purple;
   text-align: center;
-  color: white;
+  color: cornflowerblue;
   box-shadow: 6px;
   border-bottom: 3px solid blue;
 }
@@ -24,4 +24,5 @@ img{
 }
 .info{
   border: 5px solid red;
+  margin: 100px;
 }
